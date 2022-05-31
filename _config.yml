@@ -1,12 +1,12 @@
 # Site settings ...
-uri: domain.com
-url: https://domain.com
-name: Your name
+uri: nevarez.dev
+url: https://nevarez.dev
+name: JC
 title: Mangan Jekyll Theme
 email: example@domain.com
-author: username
+author: JC
 keywords: "Your, Keyword, Here"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?"
+description: "Cyber Security Practitioner"
 social_username: username
 
 # Build settings ...
